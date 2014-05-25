@@ -1,3 +1,9 @@
+network-manager-applet (0.9.8.8-0ubuntu4.1-mint1) qiana; urgency=medium
+
+  * Revert "libnm-gtk: default to system CA certificates for validation for new connections"
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 25 May 2014 20:22:24 +0100
+
 network-manager-applet (0.9.8.8-0ubuntu4.1) trusty; urgency=medium
 
   * debian/patches/11-user-connections.patch: updated to fix importing VPN
